@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircuitBreakDyamicLib", "CircuitBreakDyamicLib.csproj", "{36503A41-F532-476A-BFE9-65F4FE1388F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircuitBreakDyamicLibTests", "..\CircuitBreakDyamicLibTests\CircuitBreakDyamicLibTests.csproj", "{AC558ECD-A20B-471F-BF3C-6FDF95720DEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36503A41-F532-476A-BFE9-65F4FE1388F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36503A41-F532-476A-BFE9-65F4FE1388F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36503A41-F532-476A-BFE9-65F4FE1388F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36503A41-F532-476A-BFE9-65F4FE1388F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC558ECD-A20B-471F-BF3C-6FDF95720DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC558ECD-A20B-471F-BF3C-6FDF95720DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC558ECD-A20B-471F-BF3C-6FDF95720DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC558ECD-A20B-471F-BF3C-6FDF95720DEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2F46DE2-97C3-4938-861E-9356F99EB21A}
+	EndGlobalSection
+EndGlobal
